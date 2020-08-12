@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="sty.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
+	<body>
+		<h1>Follow me on social media</h1>
+		<div class="social-media">
+			<a href=""><i class="fab fa-facebook"></i></a>
+			<a href=""><i class="fab fa-twitter"></i></a>
+			<a href=""><i class="fab fa-whatsapp"></i></a>
+			<a href=""><i class="fab fa-instagram"></i></a>
+			<a href=""><i class="fab fa-youtube"></i></a>
+
+	</body>
+</head>
+</html>
